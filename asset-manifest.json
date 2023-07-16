@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gowrishankar_portfolio/static/css/main.be788cab.css",
+    "main.js": "/Gowrishankar_portfolio/static/js/main.565365d6.js",
+    "index.html": "/Gowrishankar_portfolio/index.html",
+    "main.be788cab.css.map": "/Gowrishankar_portfolio/static/css/main.be788cab.css.map",
+    "main.565365d6.js.map": "/Gowrishankar_portfolio/static/js/main.565365d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be788cab.css",
+    "static/js/main.565365d6.js"
+  ]
+}
